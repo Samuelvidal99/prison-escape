@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/Samuelvidal99/book-finder-app?style=for-the-badge)](https://github.com/Samuelvidal99/prison-escape/blob/main/LICENSE)
 
-<p align="center">Prison Escape é um jogo furtivo onde o objetivo é fugir da prisão enquanto evita guardas atentos, desenvolvido em C/C++.</p>
+<p align="center">Prison Escape é um jogo furtivo onde o objetivo é fugir da prisão enquanto evita guardas atentos, desenvolvido em C.</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
